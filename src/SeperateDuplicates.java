@@ -9,7 +9,7 @@ public class SeperateDuplicates
       System.out.println(seperateDuplicatesChars("Chicago Cubs"));
 
    }
-   
+
    public static String seperateDuplicatesChars(String str)
    {
       String result = "";
