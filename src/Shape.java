@@ -12,6 +12,7 @@ public class Shape {
     }
 
     public boolean getIsFilled(){
+
         return this.isFilled;
     }
     public String getColor(){
